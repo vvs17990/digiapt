@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digiapt/static/css/main.00a9b52b.css",
+    "main.js": "/digiapt/static/js/main.b864d6f9.js",
+    "static/js/787.c74f8af4.chunk.js": "/digiapt/static/js/787.c74f8af4.chunk.js",
+    "static/media/logo.svg": "/digiapt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/digiapt/index.html",
+    "main.00a9b52b.css.map": "/digiapt/static/css/main.00a9b52b.css.map",
+    "main.b864d6f9.js.map": "/digiapt/static/js/main.b864d6f9.js.map",
+    "787.c74f8af4.chunk.js.map": "/digiapt/static/js/787.c74f8af4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a9b52b.css",
+    "static/js/main.b864d6f9.js"
+  ]
+}
